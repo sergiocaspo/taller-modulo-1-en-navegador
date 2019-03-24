@@ -1,0 +1,14 @@
+Pasos para ejecución del taller:
+
+- el proyecto cuenta con la configuración npm, asi que solo será necesario ejecutar npm install
+
+1. ejecutar el archivo taller-modulo1.js, con el comando 'node taller-modulo1.js'
+el resultado será el listado de cursos con un intervalo de 2 segundos como lo indica la historia de usuario.
+
+2. ejecutar el archivo taller-modulo2.js, con el comando 'node taller-modulo2.js inscribir -i=X -n=X -c=X'
+reemplazar X por un valor deseado:
+-i : id del curso (númerico).
+-n : nombre del estudiante (texto).
+-c : cédula del estudiante (text).
+
+ahora puede acceder al navegador a la ruta localhost:3000 para ver el resultado.
